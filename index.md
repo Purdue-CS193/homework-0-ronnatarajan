@@ -1,3 +1,10 @@
+# Ron's CS 193 Website
+
+##Things I like about CS 193:
+- I like that we have student teachers
+- I like that we don't have any exams
+- I'm loving the memes on the class slides
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
